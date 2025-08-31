@@ -17,7 +17,7 @@ function Home() {
           </div>
         </div>
         <div className="image">
-          <img src="src/assets/IMG_5217.jpg" alt="Akshay" />
+          <img src="/assets/IMG_5217.jpg" alt="Akshay" />
         </div>
       </div>
 
@@ -29,7 +29,7 @@ function Home() {
         <div className="description">
           <p>Hello, I am Akshay Krishna currently pursuing my Bachelor's Degree in Sir CR Reddy College Of Engineering, Eluru</p><br />
           <p>I’m a developer passionate about crafting accessible, pixel-perfect user interfaces that blend thoughtful design with robust engineering. My favorite work lies at the intersection of design and development, creating experiences that not only look great but are meticulously built for performance and usability.</p><br /><br />
-          <a href="src/assets/Akshay_krishna_resume-pdf.pdf" target="blank_" className="resumeBtn" data-aos="fade-in" data-aos-duration="4000">Dowload My Resume</a>
+          <a href="/assets/Akshay_krishna_resume-pdf.pdf" target="blank_" className="resumeBtn" data-aos="fade-in" data-aos-duration="4000">Dowload My Resume</a>
         </div>
       </div>
       {/* about area */}
