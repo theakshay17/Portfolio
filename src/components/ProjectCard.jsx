@@ -1,6 +1,6 @@
 function ProjectCard(){
     const projectsList = [
-        {"id": 1, "image": "/assets/Screenshot (59).png", "name" : "Blog Website", "gitLink": "https://github.com/theakshay17/React--BlogWebsite"},
+        {"id": 1, "image": "/assets/BlogWebsite.png", "name" : "Blog Website", "gitLink": "https://github.com/theakshay17/React--BlogWebsite"},
     ]
     return(
         <div className="project">
